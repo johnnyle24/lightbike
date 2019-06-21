@@ -1,4 +1,4 @@
-Unique ID,Name,Email,Business Title,Manager,Location,Password,Roles
+Unique ID,Name,Email,Business Title,Manager,HRIS,Password,Roles
 mfairbourn,Matt Fairbourn,mfairbourn@instructure.com,VP QA,,SLC,password,Account Admin|Admin
 mfairbourn2,Matt Fairbourn 2,mfairbourn+user2@instructure.com,Peon,,SLC,password,Author
 mfairbourn3,Matt Fairbourn 3,mfairbourn+user3@instructure.com,Peon,,SLC,password,Author
