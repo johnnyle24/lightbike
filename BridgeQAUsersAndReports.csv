@@ -1,4 +1,4 @@
-Unique ID,Name,Email,Business Title,Manager,HRIS,Password,Roles
+Unique ID,Name,Email,Business Title,Manager,Locale,Password,Roles
 mfairbourn,Mat airbourn,m.com,VP QA,,SLC,password,Account Admin|Admin
 mfairbourn2,Mat airbourn 2,m.com,Peon,,SLC,password,Author
 mfairbourn3,Mat airbourn 3,m.com,Peon,,SLC,password,Author
